@@ -19,4 +19,13 @@ Goal: Building dashboards, charts, insights, and interactivity.
 
 •Improving layout and usability
 
+#### What I learned:
+•	How to combine visuals for better insight communication
+
+•	Use of slicers, filters, and formatting
+
+•	Dashboard structuring for presentation
+
+•	Interpreting trends and comparisons
+
 
