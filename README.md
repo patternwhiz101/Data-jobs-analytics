@@ -1,6 +1,8 @@
 # Data-jobs-analytics
 ## Data Job Roles Project
 
+## Project Visuals
+
 ## Documentation 
 Step 1:
 #### •	Understanding the problem that I am trying to solve with the dataset. 
